@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\karee\\source\\repos\\DevSecOps-AAD-Demo\\CRUDDemo\\CRUDDemo\\CRUDDemo.csproj": {}
+    "C:\\Users\\karee\\source\\repos\\DevSecOps-ADD\\CRUDDemo\\CRUDDemo\\CRUDDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\karee\\source\\repos\\DevSecOps-AAD-Demo\\CRUDDemo\\CRUDDemo\\CRUDDemo.csproj": {
+    "C:\\Users\\karee\\source\\repos\\DevSecOps-ADD\\CRUDDemo\\CRUDDemo\\CRUDDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\karee\\source\\repos\\DevSecOps-AAD-Demo\\CRUDDemo\\CRUDDemo\\CRUDDemo.csproj",
+        "projectUniqueName": "C:\\Users\\karee\\source\\repos\\DevSecOps-ADD\\CRUDDemo\\CRUDDemo\\CRUDDemo.csproj",
         "projectName": "CRUDDemo",
-        "projectPath": "C:\\Users\\karee\\source\\repos\\DevSecOps-AAD-Demo\\CRUDDemo\\CRUDDemo\\CRUDDemo.csproj",
+        "projectPath": "C:\\Users\\karee\\source\\repos\\DevSecOps-ADD\\CRUDDemo\\CRUDDemo\\CRUDDemo.csproj",
         "packagesPath": "C:\\Users\\karee\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\karee\\source\\repos\\DevSecOps-AAD-Demo\\CRUDDemo\\CRUDDemo\\obj\\",
+        "outputPath": "C:\\Users\\karee\\source\\repos\\DevSecOps-ADD\\CRUDDemo\\CRUDDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\karee\\AppData\\Roaming\\NuGet\\NuGet.Config",

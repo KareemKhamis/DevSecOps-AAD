@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B0RKx23iUgC/98iFzclGmDOJfgFbuyIeq8IiQcnlVyyW2QTw5UE91pMPvPE4ILR9COBry6ZYUw9ikYlHtXP4aw==",
+  "dgSpecHash": "rylK4uVTpb4p0YfM+LgeJzt3IMHvERVVpQjCRDuQu75VZLH3XcMjRYnoPzUSMASOtZThDTSubkb+caV7RB7JHA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\karee\\source\\repos\\DevSecOps-AAD-Demo\\CRUDDemo\\CRUDDemo\\CRUDDemo.csproj",
+  "projectFilePath": "C:\\Users\\karee\\source\\repos\\DevSecOps-ADD\\CRUDDemo\\CRUDDemo\\CRUDDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\karee\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\karee\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
